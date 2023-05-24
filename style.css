@@ -695,3 +695,11 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+.main{
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: #000016;
+}
